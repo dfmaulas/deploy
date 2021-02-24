@@ -19,6 +19,7 @@
         <script src="{{ mix('js/app.js') }}" defer></script>
     </head>
     <body class="font-sans antialiased">
+    <h1>TESTE ATUALIZAÇÂO</h1>
         <x-jet-banner />
 
         <div class="min-h-screen bg-gray-100">
